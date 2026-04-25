@@ -25,10 +25,36 @@ The dataset used in this project is the public Spotify Tracks Dataset, retrieved
 - Different moods have distinct audio feature patterns, confirming that features like `energy`, `valence`, and `tempo` are strong indicators of emotional tone in music.
 
 ## How to run
-1. Clone or download this repository.
-2. Unzip SpotifyFeatures.zip in the same folder to get SpotifyFeatures.csv
-3. 
+**Step 1**: Clone or download this repository.
 
+**Step 2**: Unzip SpotifyFeatures.zip in the same folder to get SpotifyFeatures.csv.
+
+**Step 3**: Configure the Python Interpreter in PyCharm.
+(This project requires Python 3.0 or higher.)
+1.  Open the project in PyCharm.
+2.  At the top-right corner, click the dropdown menu labeled **Custom Environment** → select **Add Local Interpreter**.
+3.  In the pop-up window, choose **Conda** as the environment type.
+4.  Select **New environment**, choose Python version **3.13** (or any Python 3.x version, 3.0+).
+5.  Confirm the Conda path (e.g., `C:\Users\HUAWEI\Anaconda3\condabin\conda.bat`) is valid, then click **OK**.
+
+**Step 4**: Install required dependencies
+
+Open the terminal in PyCharm and run the following commands to install all required packages:
+```bash
+pip install streamlit
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install scikit-learn
+```
+
+**Step 5**: Launch the application
+
+Once all dependencies are installed, start the Streamlit app with:
+```bash
+streamlit run app.py
+```
+The application will automatically open in your default web browser
 
 ## Demo
 
