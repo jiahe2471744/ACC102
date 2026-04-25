@@ -25,6 +25,9 @@ The dataset used in this project is the public Spotify Tracks Dataset, retrieved
 - Different moods have distinct audio feature patterns, confirming that features like `energy`, `valence`, and `tempo` are strong indicators of emotional tone in music.
 
 ## How to run
+1. Clone or download this repository.
+2. Unzip SpotifyFeatures.zip in the same folder to get SpotifyFeatures.csv
+3. 
 
 
 ## Demo
