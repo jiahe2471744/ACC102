@@ -1,7 +1,7 @@
 # Mood-Based Music Recommendation Dashboard
 
 ## Problem & User
-This Streamlit tool uses Spotify audio features and mood-matching algorithms to solve a key commercial problem: traditional music recommendations overlook users’ changing emotions and reduce platform engagement and revenue.It brings practical business value by improving user retention, content discoverability and overall customer experience for all related users and industries.It serves daily listeners, streaming platforms and independent artists with tailored music suggestions.
+This Streamlit tool uses Spotify audio features and mood-matching algorithms to solve a key commercial problem: traditional music recommendations overlook users’ changing emotions and reduce platform engagement and revenue.It brings practical business value by improving user retention, content discoverability and overall customer experience for all related users and industries. It offers personalised music recommendations for daily listeners, streaming platforms and independent artists to meet their diverse musical needs.
 
 ## Data
 The dataset used in this project is the public Spotify Tracks Dataset, retrieved from Kaggle.  
