@@ -58,6 +58,8 @@ The application will automatically open in your default web browser
 
 ## Demo
 
+https://video.xjtlu.edu.cn/Mediasite/Play/929bc176612a4b19b8518b2cc306d61c1d
+
 ## Limitations & next steps
 - **Limitations**: The project relies on predefined mood rules and static dataset, which cannot capture real-time user preferences or new releases on Spotify.
   - The rule-based matching may oversimplify the nuanced relationship between audio features and mood.
